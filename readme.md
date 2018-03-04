@@ -1,5 +1,7 @@
 # Respond CMS
 
+### This is a backup for the Respond 6 code base - this repo is no longer maintained - Issues and PRs will be closed
+
 Respond 6 is a multi-site, flat-file CMS powered by Angular Latest and Lumen.  Sites built using Respond are static, front-end framework agnostic and optimized for exceptional performance.
 
 ### Status
